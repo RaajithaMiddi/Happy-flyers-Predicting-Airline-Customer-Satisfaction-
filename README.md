@@ -1,11 +1,11 @@
 ## Predicting Customer Satisfaction in the Airline Industry
 
 **Team Members:** 
-- Joshua Farina (joshuapfarina)
-- Henri Salomon (henri_salomon)
-- Raajitha Middi (Raajitha_Middi)
-- Ryan Chandler (zujin87)
-- Alejandro Martinez (amzeta)
+- Joshua Farina
+- Henri Salomon
+- Raajitha Middi
+- Ryan Chandler
+- Alejandro Martinez
 
 
 ## Directory Structure
@@ -81,8 +81,6 @@ Thirdly, throughout the analysis, we interpreted the results of each model, exam
 Finally, upon selecting the most suitable model, we interpreted its predictions and drew conclusions regarding the factors contributing to passenger satisfaction. We considered the overall model performance and the importance of different features in influencing satisfaction levels. By following this methodology (detailed in Appendix 4), we aimed to gain a comprehensive understanding of the data set, select the most appropriate model, interpret its results, and draw meaningful conclusions about the factors affecting air passenger satisfaction.
 
 ## Overview of data 
-
-Datasets are hosted on Google Drive, accessible through this [link](https://drive.google.com/drive/folders/1i76FItono3U5ceE9Qc41XzybLqQZdXys?usp=sharing).
 
 Our primary data set is taken from surveys from a US airline and is publicly available on Kaggle (see details in 7. Work cited and reference). It includes user ratings for multiple aspects of air travel, such as food and drink and seat comfort, as well as customer information, such as age and gender. It contains 24 features (see details in Appendix 1) and is made of 2 different files of 103,904 (train.csv) and 25,976 records (test.csv).
 
