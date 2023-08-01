@@ -1,6 +1,6 @@
-## Team: Predicting Customer Satisfaction in the Airline Industry
+## Predicting Customer Satisfaction in the Airline Industry
 
-**Members:** 
+**Team Members:** 
 - Joshua Farina (joshuapfarina)
 - Henri Salomon (henri_salomon)
 - Raajitha Middi (Raajitha_Middi)
