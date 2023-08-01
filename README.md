@@ -1,5 +1,3 @@
-# MGT 6203 Group Project Final Report - Summer 2023
-
 ## Team: Predicting Customer Satisfaction in the Airline Industry
 
 **Members:** 
