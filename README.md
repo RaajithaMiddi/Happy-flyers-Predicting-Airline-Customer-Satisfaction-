@@ -1,6 +1,6 @@
 # MGT 6203 Group Project Final Report - Summer 2023
 
-## Team 6: Predicting Customer Satisfaction in the Airline Industry
+## Team: Predicting Customer Satisfaction in the Airline Industry
 
 **Members:** 
 - Joshua Farina (joshuapfarina)
