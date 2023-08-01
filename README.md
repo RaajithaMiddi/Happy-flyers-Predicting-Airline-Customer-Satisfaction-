@@ -15,7 +15,7 @@
 The project directory is organized as follows:
 
 1. **Miscellaneous:** This folder contains various R scripts used for data preprocessing, modeling, and evaluation. These are not the final scripts, please use scripts in located the Final Code folder.
-2. **Data:** This folder holds a link to the datasets used in the project.
+2. **Data:** Contains all the data files, can also be accessed through the link in "Link_datasets"
 3. **Final Code:** This folder contains the final version of the R code for the project. It includes scripts like  `preprocessor.R`, `EDA Final Code.R`, `Logistic Regression.R`, `decision_tree.R`, `forest_models.R`,  `svm.R`, `response_distribution_by_factor_vars.R`, `roc_curves.R`, `summary_stats_continuous_and_likert.R`.
 4. **Final Report:** The final written report summarizing the project, findings and results.
 5. **Research Papers:** This folder includes additional resources related to the project, such as research articles.
